@@ -23,3 +23,5 @@ int main() {
   return 0;
 }
 ```
+
+![image 1](https://github.com/devangnegi06/PPS_CEA_Dec2025/blob/main/practical.png)
