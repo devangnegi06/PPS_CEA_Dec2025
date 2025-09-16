@@ -14,4 +14,4 @@ int main()
 
 ```
 
-![image1]()
+![image1](https://github.com/devangnegi06/PPS_CEA_Dec2025/blob/main/cout.PNG)
